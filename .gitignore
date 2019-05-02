@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.o
+*.txt
+tags
+*.sh
+main
+registry
